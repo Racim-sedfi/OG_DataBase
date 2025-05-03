@@ -1,0 +1,219 @@
+EpreuveID,EpreuveDistance,EpreuveType,EpreuveCategorie,EpreuveTour,EpreuveDate,EpreuveHeure
+1,50m,nage libre,F,Serie 1,2024-08-03,11:02:51
+2,50m,nage libre,F,Serie 2 ,2024-08-03,11:04:59
+3,50m,nage libre,F,Serie 3 ,2024-08-03,11:08:20
+4,50m,nage libre,F,Serie 4,2024-08-03,11:10:45
+5,50m,nage libre,F,Serie 5,2024-08-03,11:12:58
+6,50m,nage libre,F,Serie 6,2024-08-03,11:15:54
+7,50m,nage libre,F,Serie 7,2024-08-03,11:18:26
+8,50m,nage libre,F,Serie 8 ,2024-08-03,11:21:06
+9,50m,nage libre,F,Serie 9,2024-08-03,11:23:53
+10,50m,nage libre,F,Serie 10,2024-08-03,11:26:24
+11,50m,nage libre,F,Demi-finale 1,2024-08-03,20:42:46
+12,50m,nage libre,F,Demi-finale 2,2024-08-03,20:49:41
+13,50m,nage libre,F,Finale ,2024-08-04,18:34:14
+14,50m,nage libre,H,Serie 1,2024-08-01,11:20:55
+15,50m,nage libre,H,Serie 2 ,2024-08-01,11:23:03
+16,50m,nage libre,H,Serie 3 ,2024-08-01,11:26:14
+17,50m,nage libre,H,Serie 4,2024-08-01,11:28:53
+18,50m,nage libre,H,Serie 5,2024-08-01,11:31:12
+19,50m,nage libre,H,Serie 6,2024-08-01,11:34:10
+20,50m,nage libre,H,Serie 7,2024-08-01,11:36:50
+21,50m,nage libre,H,Serie 8 ,2024-08-01,11:39:12
+22,50m,nage libre,H,Serie 9,2024-08-01,11:42:10
+23,50m,nage libre,H,Serie 10,2024-08-01,11:44:20
+24,50m,nage libre,H,Demi-finale 1,2024-08-01,20:49:58
+25,50m,nage libre,H,Demi-finale 2,2024-08-01,20:55:51
+26,50m,nage libre,H,Finale ,2024-08-02,20:35:22
+27,100m,papillon,F,Serie 1,2024-07-27,11:04:23
+28,100m,papillon,F,Serie 2 ,2024-07-27,11:08:47
+29,100m,papillon,F,Serie 3 ,2024-07-27,11:11:43
+30,100m,papillon,F,Serie 4,2024-07-27,11:14:42
+31,100m,papillon,F,Demi-finale 1,2024-07-27,20:35:16
+32,100m,papillon,F,Demi-finale 2,2024-07-27,20:41:06
+33,100m,brasse,F,Serie 1,2024-07-28,11:34:05
+34,100m,brasse,F,Serie 2 ,2024-07-28,11:37:13
+35,100m,brasse,F,Serie 3 ,2024-07-28,11:40:04
+36,100m,brasse,F,Serie 4,2024-07-28,11:42:54
+37,100m,brasse,F,Serie 5,2024-07-28,11:48:20
+38,100m,brasse,F,Demi-finale 1,2024-07-28,21:18:09
+39,100m,brasse,F,Demi-finale 2,2024-07-28,21:24:02
+40,100m,papillon,F,Finale ,2024-07-28,20:45:44
+41,100m,dos,F,Serie 1,2024-07-29,11:18:03
+42,100m,dos,F,Serie 2 ,2024-07-29,11:20:57
+43,100m,dos,F,Serie 3 ,2024-07-29,11:24:16
+44,100m,dos,F,Serie 4,2024-07-29,11:27:09
+45,100m,dos,F,Serie 5,2024-07-29,11:30:05
+46,100m,dos,F,Demi-finale 1,2024-07-29,21:05:32
+47,100m,dos,F,Demi-finale 2,2024-07-29,21:12:22
+48,100m,brasse,F,Finale ,2024-07-29,21:38:42
+49,100m,nage libre,F,Serie 1,2024-07-30,12:51:37
+50,100m,nage libre,F,Serie 2 ,2024-07-30,12:54:14
+51,100m,nage libre,F,Serie 3 ,2024-07-30,12:57:21
+52,100m,nage libre,F,Serie 4,2024-07-30,13:00:31
+53,100m,nage libre,F,Demi-finale 1,2024-07-30,21:37:23
+54,100m,nage libre,F,Demi-finale 2,2024-07-30,21:44:06
+55,100m,dos,F,Finale ,2024-07-30,21:04:39
+56,100m,nage libre,F,Finale ,2024-07-31,20:34:54
+57,100m,brasse,H,Serie 1,2024-07-27,11:41:08
+58,100m,brasse,H,Serie 2 ,2024-07-27,11:44:17
+59,100m,brasse,H,Serie 3 ,2024-07-27,11:49:09
+60,100m,brasse,H,Serie 4,2024-07-27,11:51:20
+61,100m,brasse,H,Serie 5,2024-07-27,11:54:16
+62,100m,brasse,H,Demi-finale 1,2024-07-27,21:20:26
+63,100m,brasse,H,Demi-finale 2,2024-07-27,21:26:50
+64,100m,dos,H,Serie 1,2024-07-28,11:52:50
+65,100m,dos,H,Serie 2 ,2024-07-28,11:55:41
+66,100m,dos,H,Serie 3 ,2024-07-28,11:58:26
+67,100m,dos,H,Serie 4,2024-07-28,12:01:26
+68,100m,dos,H,Serie 5,2024-07-28,12:04:37
+69,100m,dos,H,Serie 6,2024-07-28,12:07:38
+70,100m,dos,H,Demi-finale 1,2024-07-28,21:40:20
+71,100m,dos,H,Demi-finale 2,2024-07-28,21:46:52
+72,100m,brasse,H,Finale ,2024-07-28,21:54:09
+73,100m,dos,H,Finale ,2024-07-29,21:32:05
+74,100m,nage libre,H,Serie 1,2024-07-30,11:20:14
+75,100m,nage libre,H,Serie 2 ,2024-07-30,11:23:08
+76,100m,nage libre,H,Serie 3 ,2024-07-30,11:26:01
+77,100m,nage libre,H,Serie 4,2024-07-30,11:28:53
+78,100m,nage libre,H,Serie 5,2024-07-30,11:32:20
+79,100m,nage libre,H,Serie 6,2024-07-30,11:35:25
+80,100m,nage libre,H,Serie 7,2024-07-30,11:38:44
+81,100m,nage libre,H,Serie 8 ,2024-07-30,11:41:48
+82,100m,nage libre,H,Serie 9,2024-07-30,11:44:48
+83,100m,nage libre,H,Serie 10,2024-07-30,11:47:52
+84,100m,nage libre,H,Demi-finale 1,2024-07-30,20:34:40
+85,100m,nage libre,H,Demi-finale 2,2024-07-30,20:41:40
+86,100m,nage libre,H,Finale ,2024-07-31,22:44:32
+87,100m,papillon,H,Serie 1,2024-08-02,11:03:17
+88,100m,papillon,H,Serie 2 ,2024-08-02,11:05:46
+89,100m,papillon,H,Serie 3 ,2024-08-02,11:08:35
+90,100m,papillon,H,Serie 4,2024-08-02,11:11:36
+91,100m,papillon,H,Serie 5,2024-08-02,11:14:55
+92,100m,papillon,H,Demi-finale 1,2024-08-02,21:09:35
+93,100m,papillon,H,Demi-finale 2,2024-08-02,21:16:10
+94,100m,papillon,H,Finale ,2024-08-03,20:35:00
+95,200m,nage libre,F,Serie 1,2024-07-28,12:13:29
+96,200m,nage libre,F,Serie 2 ,2024-07-28,12:17:24
+97,200m,nage libre,F,Serie 3 ,2024-07-28,12:21:28
+98,200m,nage libre,F,Serie 4,2024-07-28,12:25:07
+99,200m,nage libre,F,Demi-finale 1,2024-07-28,22:01:37
+100,200m,nage libre,F,Demi-finale 2,2024-07-28,22:08:21
+101,200m,nage libre,F,Finale ,2024-07-29,21:59:52
+102,200m,brasse,F,Serie 1,2024-07-31,11:04:19
+103,200m,brasse,F,Serie 2 ,2024-07-31,11:11:06
+104,200m,brasse,F,Serie 3 ,2024-07-31,11:17:20
+105,200m,brasse,F,Demi-finale 1,2024-07-31,22:08:59
+106,200m,brasse,F,Demi-finale 2,2024-07-31,22:16:45
+107,200m,papillon,F,Serie 1,2024-07-31,11:50:45
+108,200m,papillon,F,Serie 2 ,2024-07-31,11:57:01
+109,200m,papillon,F,Serie 3 ,2024-07-31,12:02:59
+110,200m,papillon,F,Demi-finale 1,2024-07-31,20:50:52
+111,200m,papillon,F,Demi-finale 2,2024-07-31,20:59:10
+112,200m,dos,F,Serie 1,2024-08-01,11:04:17
+113,200m,dos,F,Serie 2 ,2024-08-01,11:08:16
+114,200m,dos,F,Serie 3 ,2024-08-01,11:12:12
+115,200m,dos,F,Serie 4,2024-08-01,11:16:50
+116,200m,dos,F,Demi-finale 1,2024-08-01,21:24:34
+117,200m,dos,F,Demi-finale 2,2024-08-01,21:32:26
+118,200m,brasse,F,Finale ,2024-08-01,21:16:38
+119,200m,papillon,F,Finale ,2024-08-01,20:36:07
+120,200m,dos,F,Finale ,2024-08-02,20:43:33
+121,200m,quatre nages,F,Serie 1,2024-08-02,11:20:56
+122,200m,quatre nages,F,Serie 2 ,2024-08-02,11:26:18
+123,200m,quatre nages,F,Serie 3 ,2024-08-02,11:30:12
+124,200m,quatre nages,F,Serie 4,2024-08-02,11:37:47
+125,200m,quatre nages,F,Serie 5,2024-08-02,11:42:07
+126,200m,quatre nages,F,Demi-finale 1,2024-08-02,21:36:53
+127,200m,quatre nages,F,Demi-finale 2,2024-08-02,21:45:01
+128,200m,quatre nages,F,Finale ,2024-08-03,21:14:52
+129,200m,nage libre,H,Serie 1,2024-07-28,11:03:55
+130,200m,nage libre,H,Serie 2 ,2024-07-28,11:07:24
+131,200m,nage libre,H,Serie 3 ,2024-07-28,11:11:02
+132,200m,nage libre,H,Serie 4,2024-07-28,11:14:32
+133,200m,nage libre,H,Demi-finale 1,2024-07-28,20:53:10
+134,200m,nage libre,H,Demi-finale 2,2024-07-28,20:59:41
+135,200m,dos,H,Serie 1,2024-07-28,11:25:00
+136,200m,dos,H,Serie 2 ,2024-07-28,11:30:54
+137,200m,dos,H,Serie 3 ,2024-07-28,11:37:07
+138,200m,dos,H,Serie 4,2024-07-28,11:44:04
+139,200m,dos,H,Demi-finale 1,2024-07-28,21:52:52
+140,200m,dos,H,Demi-finale 2,2024-07-28,22:00:34
+141,200m,nage libre,H,Finale ,2024-07-29,20:46:44
+142,200m,dos,H,Finale ,2024-07-29,20:43:56
+143,200m,brasse,H,Serie 1,2024-07-30,13:05:52
+144,200m,brasse,H,Serie 2 ,2024-07-30,13:09:57
+145,200m,brasse,H,Serie 3 ,2024-07-30,13:14:26
+146,200m,brasse,H,Serie 4,2024-07-30,13:19:13
+147,200m,brasse,H,Demi-finale 1,2024-07-30,22:04:38
+148,200m,brasse,H,Demi-finale 2,2024-07-30,22:12:43
+149,200m,papillon,H,Serie 1,2024-07-30,11:03:58
+150,200m,papillon,H,Serie 2 ,2024-07-30,11:07:54
+151,200m,papillon,H,Serie 3 ,2024-07-30,11:11:54
+152,200m,papillon,H,Serie 4,2024-07-30,11:15:59
+153,200m,papillon,H,Demi-finale 1,2024-07-30,20:49:32
+154,200m,papillon,H,Demi-finale 2,2024-07-30,20:57:31
+155,200m,brasse,H,Finale ,2024-07-31,22:37:12
+156,200m,papillon,H,Finale ,2024-07-31,20:42:40
+157,200m,quatre nages,H,Serie 1,2024-08-01,11:50:36
+158,200m,quatre nages,H,Serie 2 ,2024-08-01,11:55:50
+159,200m,quatre nages,H,Serie 3 ,2024-08-01,11:59:59
+160,200m,quatre nages,H,Serie 4,2024-08-01,12:03:59
+161,200m,quatre nages,H,Demi-finale 1,2024-08-01,21:53:15
+162,200m,quatre nages,H,Demi-finale 2,2024-08-01,22:00:33
+163,200m,quatre nages,H,Finale ,2024-08-02,20:51:36
+164,400m,nage libre,F,Serie 1,2024-07-27,11:22:42
+165,400m,nage libre,F,Serie 2 ,2024-07-27,11:28:46
+166,400m,nage libre,F,Serie 3 ,2024-07-27,11:35:00
+167,400m,nage libre,F,Finale ,2024-07-27,21:01:42
+168,400m,quatre nages,F,Serie 1,2024-07-29,11:07:09
+169,400m,quatre nages,F,Serie 2 ,2024-07-29,11:13:51
+170,400m,quatre nages,F,Finale ,2024-07-29,20:38:42
+171,400m,nage libre,H,Serie 1,2024-07-27,12:01:15
+172,400m,nage libre,H,Serie 2 ,2024-07-27,12:07:34
+173,400m,nage libre,H,Serie 3 ,2024-07-27,12:14:00
+174,400m,nage libre,H,Serie 4,2024-07-27,12:20:14
+175,400m,nage libre,H,Serie 5,2024-07-27,12:26:02
+176,400m,nage libre,H,Finale ,2024-07-27,20:38:36
+177,400m,quatre nages,H,Serie 1,2024-07-28,11:22:33
+178,400m,quatre nages,H,Serie 2 ,2024-07-28,11:29:12
+179,400m,quatre nages,H,Finale ,2024-07-28,20:38:36
+180,800m,nage libre,F,Serie 1,2024-08-02,11:54:53
+181,800m,nage libre,F,Serie 2 ,2024-08-02,12:05:29
+182,800m,nage libre,F,Finale ,2024-08-03,21:39:51
+183,800m,nage libre,H,Serie 1,2024-07-29,11:42:01
+184,800m,nage libre,H,Serie 2 ,2024-07-29,11:52:18
+185,800m,nage libre,H,Serie 3 ,2024-07-29,12:02:20
+186,800m,nage libre,H,Serie 4,2024-07-29,12:13:01
+187,800m,nage libre,H,Finale ,2024-07-30,21:18:53
+188,1500m,nage libre,F,Serie 1,2024-07-30,12:09:26
+189,1500m,nage libre,F,Serie 2 ,2024-07-30,12:28:20
+190,1500m,nage libre,F,Serie 3 ,2024-07-30,12:47:24
+191,1500m,nage libre,F,Finale ,2024-07-31,21:32:50
+192,1500m,nage libre,H,Serie 1,2024-08-03,11:47:36
+193,1500m,nage libre,H,Serie 2 ,2024-08-03,12:05:18
+194,1500m,nage libre,H,Serie 3 ,2024-08-03,12:22:36
+195,1500m,nage libre,H,Serie 4,2024-08-03,12:40:03
+196,1500m,nage libre,H,Finale ,2024-08-04,18:56:01
+197,4 x 100m,nage libre,F,Serie 1,2024-07-27,12:33:19
+198,4 x 100m,nage libre,F,Serie 2 ,2024-07-27,12:39:43
+199,4 x 100m,nage libre,F,Finale ,2024-07-27,21:45:46
+200,4 x 100m,quatre nages,F,Serie 1,2024-08-03,13:03:50
+201,4 x 100m,quatre nages,F,Serie 2 ,2024-08-03,13:27:11
+202,4 x 100m,quatre nages,F,Finale ,2024-08-04,19:39:43
+203,4 x 100m,nage libre,H,Serie 1,2024-07-27,12:47:23
+204,4 x 100m,nage libre,H,Serie 2 ,2024-07-27,12:53:31
+205,4 x 100m,nage libre,H,Finale ,2024-07-27,21:55:42
+206,4 x 100m,quatre nages,H,Serie 1,2024-08-03,12:47:45
+207,4 x 100m,quatre nages,H,Serie 2 ,2024-08-03,12:55:59
+208,4 x 100m,quatre nages,H,Finale ,2024-08-04,19:18:15
+209,4 x 100m,quatre nages,M,Serie 1,2024-08-02,12:13:26
+210,4 x 100m,quatre nages,M,Serie 2 ,2024-08-02,12:20:18
+211,4 x 100m,quatre nages,M,Finale ,2024-08-03,22:07:08
+212,4 x 200m,nage libre,F,Serie 1,2024-08-01,12:15:42
+213,4 x 200m,nage libre,F,Serie 2 ,2024-08-01,12:26:46
+214,4 x 200m,nage libre,F,Finale ,2024-08-01,22:14:37
+215,4 x 200m,nage libre,H,Serie 1,2024-07-30,13:30:37
+216,4 x 200m,nage libre,H,Serie 2 ,2024-07-30,13:40:53
+217,4 x 200m,nage libre,H,Finale ,2024-07-30,22:26:50
+218,100m,brasse,H,Demi-finale Barrage,2024-07-24,22:24:00
