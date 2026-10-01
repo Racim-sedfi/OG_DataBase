@@ -13,9 +13,9 @@ Installer les bibliothèques nécessaires : pandas, SQLAlchemy, pymysql (pour My
 
     Configurer les informations de connexion dans chaque script (username, password, host, port, etc.).
     Exécuter le script correspondant à la base de données souhaitée :
-        import_mysql.py pour MySQL
-        import_postgres.py pour PostgreSQL
-        import_oracle.py pour Oracle
+        Mysql.py pour MySQL
+        Postgre.py pour PostgreSQL
+        Oracle.py pour Oracle
 
 ** Avantages
 

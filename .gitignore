@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE / éditeurs
+.idea/
+.vscode/
+
+# Fichiers de verrou LibreOffice
+.~lock.*#
+
+# Système
+.DS_Store
+Thumbs.db
